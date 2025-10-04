@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+array difficulties
+id buttonBack
+id buttonReset
+id buttonStart
+id cell_0
+id cell_1
+id cell_2
+id cell_3
+id cell_4
+id cell_5
+id cell_6
+id cell_7
+id cell_8
+id editName
+id grid
+id radioAI
+id radioGroupOpponent
+id radioHuman
+id spinnerDifficulty
+id textStatus
+layout activity_game
+layout activity_main
+string app_name
+style Theme.AppCompat.Light.NoActionBar

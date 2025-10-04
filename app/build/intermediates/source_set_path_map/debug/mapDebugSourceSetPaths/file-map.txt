@@ -1,0 +1,38 @@
+com.example.tictactoe.app-jetified-savedstate-1.2.1-0 C:\Users\DELL\.gradle\caches\8.11.1\transforms\05648960adb894eecde8720bd5471216\transformed\jetified-savedstate-1.2.1\res
+com.example.tictactoe.app-jetified-tracing-1.2.0-1 C:\Users\DELL\.gradle\caches\8.11.1\transforms\0db7101ff81c8a4af75cf6c9059dd9a6\transformed\jetified-tracing-1.2.0\res
+com.example.tictactoe.app-jetified-lifecycle-process-2.6.2-2 C:\Users\DELL\.gradle\caches\8.11.1\transforms\17967d36ffd8536090d02bbd8baf65a9\transformed\jetified-lifecycle-process-2.6.2\res
+com.example.tictactoe.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-3 C:\Users\DELL\.gradle\caches\8.11.1\transforms\23d64d43bce93a34709aba1344d687de\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.tictactoe.app-core-1.17.0-4 C:\Users\DELL\.gradle\caches\8.11.1\transforms\2dfd2ffe18ce4912c542896e08c6615e\transformed\core-1.17.0\res
+com.example.tictactoe.app-drawerlayout-1.1.1-5 C:\Users\DELL\.gradle\caches\8.11.1\transforms\34ac7dda0859202dcd96dd01a838a50a\transformed\drawerlayout-1.1.1\res
+com.example.tictactoe.app-recyclerview-1.2.1-6 C:\Users\DELL\.gradle\caches\8.11.1\transforms\36a7b8d5717600e94609a918f653e334\transformed\recyclerview-1.2.1\res
+com.example.tictactoe.app-fragment-1.5.4-7 C:\Users\DELL\.gradle\caches\8.11.1\transforms\3ce9e3efa533588de8232de4a9c4df3f\transformed\fragment-1.5.4\res
+com.example.tictactoe.app-jetified-activity-1.8.0-8 C:\Users\DELL\.gradle\caches\8.11.1\transforms\468cc23b444715f844d6f967040652d5\transformed\jetified-activity-1.8.0\res
+com.example.tictactoe.app-jetified-appcompat-resources-1.7.1-9 C:\Users\DELL\.gradle\caches\8.11.1\transforms\4a7d9eb05225096b70c962bced645ea4\transformed\jetified-appcompat-resources-1.7.1\res
+com.example.tictactoe.app-lifecycle-livedata-2.6.2-10 C:\Users\DELL\.gradle\caches\8.11.1\transforms\5b49db7540e7b97b107dc0f0fcf08d58\transformed\lifecycle-livedata-2.6.2\res
+com.example.tictactoe.app-constraintlayout-2.2.1-11 C:\Users\DELL\.gradle\caches\8.11.1\transforms\6cb4cf9913d1e67f707a80eccc56e739\transformed\constraintlayout-2.2.1\res
+com.example.tictactoe.app-dynamicanimation-1.1.0-12 C:\Users\DELL\.gradle\caches\8.11.1\transforms\6dfb996ea33a4669ecafd1f031a95144\transformed\dynamicanimation-1.1.0\res
+com.example.tictactoe.app-jetified-core-viewtree-1.0.0-13 C:\Users\DELL\.gradle\caches\8.11.1\transforms\72e900acdf44e9afa5c67d6b22ab7617\transformed\jetified-core-viewtree-1.0.0\res
+com.example.tictactoe.app-jetified-graphics-shapes-release-14 C:\Users\DELL\.gradle\caches\8.11.1\transforms\7504a85c9913a53c16912d1fdd34c457\transformed\jetified-graphics-shapes-release\res
+com.example.tictactoe.app-appcompat-1.7.1-15 C:\Users\DELL\.gradle\caches\8.11.1\transforms\77fb05ad121e9f48464337c17d8f8a65\transformed\appcompat-1.7.1\res
+com.example.tictactoe.app-cardview-1.0.0-16 C:\Users\DELL\.gradle\caches\8.11.1\transforms\81fd1454491449319319ae730c4d3034\transformed\cardview-1.0.0\res
+com.example.tictactoe.app-coordinatorlayout-1.1.0-17 C:\Users\DELL\.gradle\caches\8.11.1\transforms\8443f11075daa937e9221e56c1087b8b\transformed\coordinatorlayout-1.1.0\res
+com.example.tictactoe.app-core-runtime-2.2.0-18 C:\Users\DELL\.gradle\caches\8.11.1\transforms\8a55e35d7be1e241174df50d4a4a9c05\transformed\core-runtime-2.2.0\res
+com.example.tictactoe.app-jetified-emoji2-1.3.0-19 C:\Users\DELL\.gradle\caches\8.11.1\transforms\92ba6f9c858ed717cf87d616cec62e00\transformed\jetified-emoji2-1.3.0\res
+com.example.tictactoe.app-jetified-startup-runtime-1.1.1-20 C:\Users\DELL\.gradle\caches\8.11.1\transforms\a07d7ac9d5dcbdfc4e22fa4fe92ce841\transformed\jetified-startup-runtime-1.1.1\res
+com.example.tictactoe.app-jetified-profileinstaller-1.4.0-21 C:\Users\DELL\.gradle\caches\8.11.1\transforms\a24e1a10f9998bc3e6af7f1f2f9a8dcc\transformed\jetified-profileinstaller-1.4.0\res
+com.example.tictactoe.app-lifecycle-runtime-2.6.2-22 C:\Users\DELL\.gradle\caches\8.11.1\transforms\a4fccf2408f1f3fe207537b1dc9e8672\transformed\lifecycle-runtime-2.6.2\res
+com.example.tictactoe.app-lifecycle-viewmodel-2.6.2-23 C:\Users\DELL\.gradle\caches\8.11.1\transforms\bf818c3ae88357eb33fbb3b89fed82f5\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.tictactoe.app-jetified-emoji2-views-helper-1.3.0-24 C:\Users\DELL\.gradle\caches\8.11.1\transforms\c579f5ec1d6ba3d19302c27addc0a186\transformed\jetified-emoji2-views-helper-1.3.0\res
+com.example.tictactoe.app-transition-1.5.0-25 C:\Users\DELL\.gradle\caches\8.11.1\transforms\c60594725e0001fc592b4a9161865179\transformed\transition-1.5.0\res
+com.example.tictactoe.app-jetified-annotation-experimental-1.4.1-26 C:\Users\DELL\.gradle\caches\8.11.1\transforms\cbad95b1109038100e93afc3b3f4ff4b\transformed\jetified-annotation-experimental-1.4.1\res
+com.example.tictactoe.app-jetified-viewpager2-1.0.0-27 C:\Users\DELL\.gradle\caches\8.11.1\transforms\d8b169b9daba5d9401799703bbaf2318\transformed\jetified-viewpager2-1.0.0\res
+com.example.tictactoe.app-lifecycle-livedata-core-2.6.2-28 C:\Users\DELL\.gradle\caches\8.11.1\transforms\f157ebc5dbdcad3ceb4912eec0cdb33d\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.tictactoe.app-jetified-core-ktx-1.17.0-29 C:\Users\DELL\.gradle\caches\8.11.1\transforms\f413f4df17c50e92e5789e6550b4064b\transformed\jetified-core-ktx-1.17.0\res
+com.example.tictactoe.app-material-1.13.0-30 C:\Users\DELL\.gradle\caches\8.11.1\transforms\f817356a0159050e83cae5397c7891ea\transformed\material-1.13.0\res
+com.example.tictactoe.app-pngs-31 C:\Users\DELL\OneDrive\Escritorio\App del Gato\tictactoe_project\TicTacToe\app\build\generated\res\pngs\debug
+com.example.tictactoe.app-resValues-32 C:\Users\DELL\OneDrive\Escritorio\App del Gato\tictactoe_project\TicTacToe\app\build\generated\res\resValues\debug
+com.example.tictactoe.app-packageDebugResources-33 C:\Users\DELL\OneDrive\Escritorio\App del Gato\tictactoe_project\TicTacToe\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.tictactoe.app-packageDebugResources-34 C:\Users\DELL\OneDrive\Escritorio\App del Gato\tictactoe_project\TicTacToe\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.tictactoe.app-debug-35 C:\Users\DELL\OneDrive\Escritorio\App del Gato\tictactoe_project\TicTacToe\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.tictactoe.app-debug-36 C:\Users\DELL\OneDrive\Escritorio\App del Gato\tictactoe_project\TicTacToe\app\src\debug\res
+com.example.tictactoe.app-main-37 C:\Users\DELL\OneDrive\Escritorio\App del Gato\tictactoe_project\TicTacToe\app\src\main\res

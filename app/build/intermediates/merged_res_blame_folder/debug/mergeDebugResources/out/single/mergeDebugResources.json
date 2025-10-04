@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.tictactoe.app-debug-35:/layout_activity_game.xml.flat",
+        "source": "com.example.tictactoe.app-main-37:/layout/activity_game.xml"
+    },
+    {
+        "merged": "com.example.tictactoe.app-debug-35:/layout_activity_main.xml.flat",
+        "source": "com.example.tictactoe.app-main-37:/layout/activity_main.xml"
+    }
+]
